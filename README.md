@@ -1,3 +1,3 @@
 # FourierMonitor
 
-By Tim Brouwer
+By Tim Brouwer and Abtien Javan Peykar
